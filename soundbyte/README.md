@@ -18,6 +18,9 @@ Step 4: Run'DesktopLauncher.main().
 
 ![4th_step](https://user-images.githubusercontent.com/93693545/140798201-88f58ccd-e7c3-4ea7-a84d-d00073a9ed26.png)
 
+Step 5: The game main menu should open up.
+
+![5th_step](https://user-images.githubusercontent.com/93693545/140798629-e61710bb-4a25-453a-a83c-bb7c6b806167.png)
 
 
 
