@@ -9,11 +9,16 @@ Once player has succesfully made all the patterns and passed the level, they can
 The Level screen contains several buttons to help the player:
 
 PLAY LOOP: Plays the attempted pattern loop. Once player has attempted making the pattern, they can listen to their recording by pressing this button. 
-Playback Plays the entire music.
+
+Playback: Plays the entire music.
+
 patternPlay: Plays the current pattern. Helpful for player to memorize the current pattern.
+
 Attempt: Use this button to begin recording music pattern.
+
 Back: Takes back to main menu.
 
 Sandbox mode: a free play mode where a player can create their own music.
+
 Settings: allows to the change the difficulty levels of how quick the player should press the key after it appears on the screen.
 
