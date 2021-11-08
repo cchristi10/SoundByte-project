@@ -20,7 +20,7 @@ Step 4: Run'DesktopLauncher.main().
 
 Step 5: Begin playing.
 
-![5th_step](https://user-images.githubusercontent.com/93693545/140798629-e61710bb-4a25-453a-a83c-bb7c6b806167.png)
+![5th_step](https://user-images.githubusercontent.com/93693545/140798979-94d0e7c8-acb3-41c4-8974-79b6fdec520d.png)
 
 
 
