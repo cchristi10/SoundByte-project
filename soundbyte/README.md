@@ -1,7 +1,7 @@
 # SoundByte
 
 Read the file 'open_project.md' for instructions on opening the game in IntelliJ.
-Read the file'game_tutorial.md' for instructions on how to play the game.
+Read the file 'game_tutorial.md' for instructions on how to play the game.
 
 To develop Java applications in IntelliJ IDEA, you need the Java SDK (JDK). Download the OpenJDK from either https://jdk.java.net/
 
