@@ -1,7 +1,5 @@
 # SoundByte
 
-Team: Clarence Christi, Kris Iliev, Matthew Jennings.
-
 How to open the project in IntelliJ:
 
 Step 1: From IntelliJ Welcome Screen choose Open or Import Project.
