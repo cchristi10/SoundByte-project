@@ -1,4 +1,4 @@
-Game tutorial Video: https://drive.google.com/drive/folders/1h0Z9GkvFuFTeHWHp6Xs2M5X4tKmDFCA1?usp=sharing
+Game tutorial Video: https://drive.google.com/file/d/1eae5rEQX6M3uQ7Nxh7a5oCObzkihzh-j/view?usp=sharing
 
 Game Overview:
 
