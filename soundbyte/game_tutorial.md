@@ -1,3 +1,5 @@
+Game tutorial Video: https://drive.google.com/drive/folders/1h0Z9GkvFuFTeHWHp6Xs2M5X4tKmDFCA1?usp=sharing
+
 Game Overview:
 
 The game level screen has 4 circles and 4 squares which will display the keyboard key that needs to be pressed to make the music pattern. 
